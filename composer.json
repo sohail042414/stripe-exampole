@@ -1,0 +1,13 @@
+{
+    "name": "sohailmaroof/stripe-example",
+    "description": "Stripe subscriptions example",
+    "authors": [
+        {
+            "name": "Sohail Maroof",
+            "email": "sohail.maroof@nxb.com.pk"
+        }
+    ],
+    "require": {
+        "stripe/stripe-php": "^6.28"
+    }
+}
